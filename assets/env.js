@@ -1,2 +1,2 @@
-SSID='20d015.asu.ac.jp'
+SSID='1zUpvmhsuVSXYbwcjzFiLY_SL8Lzj4T_ZYBbzywGGjR0'
 SNAME=okazaki!A2:K1000
